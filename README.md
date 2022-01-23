@@ -11,6 +11,7 @@ Here are some ideas to get you started:-->
 - 🤔 I’m looking for help with becoming a Python master. <!--- 💬 Ask me about discord.py-->
 - 📫 How to reach me: Discord: darthinvader666#6968 
 - 😄 Pronouns: He/Him
+
 <!--- - ⚡ Fun fact: ... -->
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=simonGreenwood&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simonGreenwood&show-icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
