@@ -12,5 +12,6 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: Discord: darthinvader666#6968 
 - 😄 Pronouns: He/Him
 <!--- - ⚡ Fun fact: ... -->
-[![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonGreenwood&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-[![Simon's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simonGreenwood&show-icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=simonGreenwood&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simonGreenwood&show-icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simonGreenwood&theme=nord)](https://git.io/streak-stats)DenverCoder1
