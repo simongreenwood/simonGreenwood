@@ -7,8 +7,8 @@ Here are some ideas to get you started:-->
 
 
 - 🔭 I’m currently working on Full stack open 2021.
-- 🌱 I’m currently learning Javascript/NodeJS and becoming better at Python. <!--- - 👯 I’m looking to collaborate on React projects -->
-- 🤔 I’m looking for help with enhancing my skillset. <!--- 💬 Ask me about discord.py-->
+- 🌱 I’m currently learning Javascript/NodeJS <!--- - 👯 I’m looking to collaborate on React projects -->
+- 🤔 I’m looking for help with becoming a Python master. <!--- 💬 Ask me about discord.py-->
 - 📫 How to reach me: Discord: darthinvader666#6968 
 - 😄 Pronouns: He/Him
 <!--- - ⚡ Fun fact: ... -->
