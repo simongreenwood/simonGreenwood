@@ -12,4 +12,4 @@ Here are some ideas to get you started:-->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=simonGreenwood&theme=nord" align="left"/>
 <img src="https://github-readme-stats.vercel.app/api?username=simonGreenwood&show_icons=true&theme=nord" align="top"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonGreenwood&show-icons=true&theme=nord" align="bottom right"/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=simonGreenwood&repo=fullstackopen)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=simonGreenwood&repo=fullstackopen&theme=nord"/>
