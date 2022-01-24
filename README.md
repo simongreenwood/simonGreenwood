@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:-->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonGreenwood&show-icons=true&theme=nord" align="right"/>
 - 🔭 I’m currently working on Full stack open 2021. <br>
 - 🌱 I’m currently learning Javascript/NodeJS <!--- - 👯 I’m looking to collaborate on React projects --> <br>
 - 🤔 I’m looking for help with becoming a Python master. <!--- 💬 Ask me about discord.py--><br>
