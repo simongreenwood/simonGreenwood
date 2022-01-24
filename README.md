@@ -11,6 +11,6 @@ Here are some ideas to get you started:-->
 <hr>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=simonGreenwood&theme=nord" align="bottom"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonGreenwood&show-icons=true&theme=nord" align="bottom right"/>
-<img src="https://github-readme-stats.vercel.app/api?username=simonGreenwood&show_icons=true&theme=nord" />
+<!--- <img src="https://github-readme-stats.vercel.app/api?username=simonGreenwood&show_icons=true&theme=nord" /> -->
 <!--- - ⚡ Fun fact: ... -->
 <hr>
