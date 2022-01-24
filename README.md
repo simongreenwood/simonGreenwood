@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:-->
 - 🔭 I’m currently working on Full stack open 2021. <br>
-- 🌱 I’m currently learning Javascript/NodeJS <!--- - 👯 I’m looking to collaborate on React projects --> <br>
- <!--- - 🤔 I’m looking for help with becoming a Python master.  💬 Ask me about discord.py--><br>
+- 🌱 I’m currently learning Javascript/NodeJS <!--- - 👯 I’m looking to collaborate on React projects --> <br><!--- - 🤔 I’m looking for help with becoming a Python master.  💬 Ask me about discord.py--><br>
 - 📫 How to reach me: Discord: darthinvader666#6968 <br>
 - 😄 Pronouns: He/Him<br>
 <div style=>
