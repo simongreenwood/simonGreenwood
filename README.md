@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **typescript and graphql**
 
-- 💬 Ask me about **react, express, mongodb**
+- 💬 Ask me about **the mern stack**
 
 
 <h3 align="left">Languages and Tools:</h3>
